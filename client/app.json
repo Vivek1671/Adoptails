@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "AdopTails",
+    "slug": "AdopTails",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo_pet.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Logo_pet.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Adoptails_Logo.png"
+    }
+  }
+}
